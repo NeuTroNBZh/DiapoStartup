@@ -1,0 +1,14 @@
+C:\Users\NeuTroN\source\repos\DiapoStartup\DiapoStartup\bin\Debug\net8.0\DiapoStartup.exe
+C:\Users\NeuTroN\source\repos\DiapoStartup\DiapoStartup\bin\Debug\net8.0\DiapoStartup.deps.json
+C:\Users\NeuTroN\source\repos\DiapoStartup\DiapoStartup\bin\Debug\net8.0\DiapoStartup.runtimeconfig.json
+C:\Users\NeuTroN\source\repos\DiapoStartup\DiapoStartup\bin\Debug\net8.0\DiapoStartup.dll
+C:\Users\NeuTroN\source\repos\DiapoStartup\DiapoStartup\bin\Debug\net8.0\DiapoStartup.pdb
+C:\Users\NeuTroN\source\repos\DiapoStartup\DiapoStartup\obj\Debug\net8.0\DiapoStartup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NeuTroN\source\repos\DiapoStartup\DiapoStartup\obj\Debug\net8.0\DiapoStartup.AssemblyInfoInputs.cache
+C:\Users\NeuTroN\source\repos\DiapoStartup\DiapoStartup\obj\Debug\net8.0\DiapoStartup.AssemblyInfo.cs
+C:\Users\NeuTroN\source\repos\DiapoStartup\DiapoStartup\obj\Debug\net8.0\DiapoStartup.csproj.CoreCompileInputs.cache
+C:\Users\NeuTroN\source\repos\DiapoStartup\DiapoStartup\obj\Debug\net8.0\DiapoStartup.dll
+C:\Users\NeuTroN\source\repos\DiapoStartup\DiapoStartup\obj\Debug\net8.0\refint\DiapoStartup.dll
+C:\Users\NeuTroN\source\repos\DiapoStartup\DiapoStartup\obj\Debug\net8.0\DiapoStartup.pdb
+C:\Users\NeuTroN\source\repos\DiapoStartup\DiapoStartup\obj\Debug\net8.0\DiapoStartup.genruntimeconfig.cache
+C:\Users\NeuTroN\source\repos\DiapoStartup\DiapoStartup\obj\Debug\net8.0\ref\DiapoStartup.dll
